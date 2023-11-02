@@ -1,0 +1,28 @@
+# File sementara
+.env
+.env.*
+.phpunit.result.cache
+bootstrap/cache/
+storage/
+vendor/
+
+# File konfigurasi
+config/app.php
+config/app.php
+
+# File log
+storage/logs/
+storage/debugbar/
+
+# File database
+database/*.sqlite
+
+# File hasil kompilasi JavaScript dan CSS
+public/js/
+public/css/
+
+# Direktori node_modules jika Anda menggunakan JavaScript npm
+node_modules/
+
+# Direktori yang berisi cache Composer
+.composer/
